@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Phạm Văn Nghĩa
 
-🎓 **Student in Theoretical Algebra** | 🔐 **Cryptography Researcher in Training**  
+🎓 **Algebraist** | 🔐 **Cryptography Researcher in Training**  
 📍 Passionate about applying advanced mathematics to solve real-world security challenges.
 
 ---
