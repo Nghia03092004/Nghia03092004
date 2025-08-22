@@ -29,3 +29,4 @@ jobs:
           publish_dir: ./dist
           publish_branch: output
           commit_message: "update snake animation"
+# end of snake.yml
