@@ -19,6 +19,12 @@
 
 ---
 
+## 🏆 Competitive Programming
+[![Codeforces](https://img.shields.io/badge/Codeforces-PhamVanNghia-blue?logo=codeforces&logoColor=white)](https://codeforces.com/profile/PhamVanNghia)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-Nghia2004-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/Nghia2004/)
+
+---
+
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nghia03092004&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nghia03092004&layout=compact&theme=tokyonight)
