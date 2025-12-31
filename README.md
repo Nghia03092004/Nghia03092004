@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Phạm Văn Nghĩa
 
-🎓 **Algebraist & Post quantum crytography learner** | **AI/ML Engineer**
+🎓 **Theoretical algebra & Post quantum crytography learner** | **AI/ML Engineer**
 
 ---
 
